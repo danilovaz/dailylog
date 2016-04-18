@@ -1,0 +1,2 @@
+# dailylog
+Day after day
