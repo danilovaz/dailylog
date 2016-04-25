@@ -15,3 +15,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 21 - :zzz: :movie_camera: :zzz:
 - Day 22 - :octocat: :movie_camera: :zzz:
 - Day 23 - :octocat: :movie_camera: :zzz:
+- Day 24 - :octocat: :movie_camera: :zzz:
